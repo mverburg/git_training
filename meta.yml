@@ -1,0 +1,11 @@
+---
+title: "Git training"
+author: "Nico Riedmann"
+date: 2019-01-25
+description: "An interactive git tutorial meant to teach you how git works, not just which commands to execute"
+rights: unknown
+language: en-US
+documentclass: book
+links-as-notes: true
+verbatim-in-note: true
+...
